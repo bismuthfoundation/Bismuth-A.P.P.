@@ -3,7 +3,7 @@ Bismuth Abstract Protocol Proposals
 
 ## Bismuth Abstract transactions
 
-Bismuth Crypto-currency http://bismuth.cz does suppport arbitrary abstract transactions thanks to its exclusive "operation" and "data" meta fields.
+Bismuth Crypto-currency http://bismuth.cz does suppport arbitrary abstract transactions thanks to its exclusive "operation" and "data" meta fields, both of which are UTF8 text strings.
 
 You can read more at https://github.com/bismuthfoundation/Hack-with-BIS/tree/master/01-Concepts
 
@@ -15,6 +15,8 @@ Some protocols already are running on top of Bismuth, see https://github.com/bis
 Bismuth native token support, Alias registration, Dragginator, Autogame... all are live examples of Abstract protocols.
 
 We call them "Abstract" protocols, because all depends on how the data is interpreted, who is considered as the source of trusted data provider, and these protocols could as well run on any chain that supports some arbitrary data field.
+
+Whereas ERC standards are defined by smart contract interfaces, Abstract protocols are defined by abstract transactions and their meaning. The protocols are completely implementation agnostic.
 
 ## Abstract Protocol Proposals
 
