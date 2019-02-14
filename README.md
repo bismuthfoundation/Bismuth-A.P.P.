@@ -20,5 +20,5 @@ Whereas ERC standards are defined by smart contract interfaces, Abstract protoco
 
 ## Abstract Protocol Proposals
 
-This repository's goal is to gather new protocols specifications, discuss and fine tune them, and finally link to their implementations(s)
+This repository's goal is to gather new protocols specifications, discuss and fine tune them, and finally link to their implementation(s).
 
