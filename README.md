@@ -12,6 +12,8 @@ With such fields, we can then build protocols on top of the chain, without the n
 ## Current Protocols
 Some protocols already are running on top iof Bismuth, see https://github.com/bismuthfoundation/Hack-with-BIS/tree/master/01-Concepts/protocols
 
+Bismuth native token support, Alias registration, Dragginator, Autogame... all are live examples of Abstract protocols.
+
 We call them "Abstract" protocols, because all depends on how the data is interpreted, who is considered as the source of trusted data provider, and these protocols could as well run on any chain that supports some arbitrary data field.
 
 ## Abstract Protocol Proposals
