@@ -55,4 +55,7 @@ The trigger is a crypto transaction with a "account:link" operation meta field.
 - Generalize to other social meda accounts
 - Allow "unlink" as well as "link"
 
-- Design a private variation of this protocol
+- It's easy to make that private by not requiring the on-chain part, and transmit the `twitter:id_of_the_tweet:full_signature_of_the_twitter_handle` data over a private channel.  
+Of course, you loose the benefits of public association then.
+
+- Design an on-chain private variation of this protocol
