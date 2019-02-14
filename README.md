@@ -10,7 +10,7 @@ You can read more at https://github.com/bismuthfoundation/Hack-with-BIS/tree/mas
 With such fields, we can then build protocols on top of the chain, without the need for any change in the running nodes, without requiring any specific processing from the nodes. It's just abstract data to them.
 
 ## Current Protocols
-Some protocols already are running on top iof Bismuth, see https://github.com/bismuthfoundation/Hack-with-BIS/tree/master/01-Concepts/protocols
+Some protocols already are running on top of Bismuth, see https://github.com/bismuthfoundation/Hack-with-BIS/tree/master/01-Concepts/protocols
 
 Bismuth native token support, Alias registration, Dragginator, Autogame... all are live examples of Abstract protocols.
 
